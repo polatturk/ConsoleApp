@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\bin\Debug\net7.0\ForeachDongusu.exe
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\bin\Debug\net7.0\ForeachDongusu.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\bin\Debug\net7.0\ForeachDongusu.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\bin\Debug\net7.0\ForeachDongusu.dll
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\bin\Debug\net7.0\ForeachDongusu.pdb
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\obj\Debug\net7.0\ForeachDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\obj\Debug\net7.0\ForeachDongusu.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\obj\Debug\net7.0\ForeachDongusu.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\obj\Debug\net7.0\ForeachDongusu.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\obj\Debug\net7.0\ForeachDongusu.dll
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\obj\Debug\net7.0\refint\ForeachDongusu.dll
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\obj\Debug\net7.0\ForeachDongusu.pdb
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\obj\Debug\net7.0\ForeachDongusu.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\ForeachDongusu\obj\Debug\net7.0\ref\ForeachDongusu.dll

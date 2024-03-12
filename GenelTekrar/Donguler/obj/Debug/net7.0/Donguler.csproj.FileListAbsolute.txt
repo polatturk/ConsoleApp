@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\bin\Debug\net7.0\Donguler.exe
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\bin\Debug\net7.0\Donguler.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\bin\Debug\net7.0\Donguler.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\bin\Debug\net7.0\Donguler.dll
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\bin\Debug\net7.0\Donguler.pdb
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\obj\Debug\net7.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\obj\Debug\net7.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\obj\Debug\net7.0\Donguler.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\obj\Debug\net7.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\obj\Debug\net7.0\Donguler.dll
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\obj\Debug\net7.0\refint\Donguler.dll
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\obj\Debug\net7.0\Donguler.pdb
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\obj\Debug\net7.0\Donguler.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\Donguler\obj\Debug\net7.0\ref\Donguler.dll

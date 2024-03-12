@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\bin\Debug\net7.0\SwitchCaseYapisi.exe
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\bin\Debug\net7.0\SwitchCaseYapisi.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\bin\Debug\net7.0\SwitchCaseYapisi.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\bin\Debug\net7.0\SwitchCaseYapisi.dll
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\bin\Debug\net7.0\SwitchCaseYapisi.pdb
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\obj\Debug\net7.0\SwitchCaseYapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\obj\Debug\net7.0\SwitchCaseYapisi.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\obj\Debug\net7.0\SwitchCaseYapisi.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\obj\Debug\net7.0\SwitchCaseYapisi.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\obj\Debug\net7.0\SwitchCaseYapisi.dll
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\obj\Debug\net7.0\refint\SwitchCaseYapisi.dll
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\obj\Debug\net7.0\SwitchCaseYapisi.pdb
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\obj\Debug\net7.0\SwitchCaseYapisi.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\SwitchCaseYapisi\obj\Debug\net7.0\ref\SwitchCaseYapisi.dll

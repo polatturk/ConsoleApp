@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\bin\Debug\net7.0\LoginPage.exe
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\bin\Debug\net7.0\LoginPage.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\bin\Debug\net7.0\LoginPage.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\bin\Debug\net7.0\LoginPage.dll
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\bin\Debug\net7.0\LoginPage.pdb
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\obj\Debug\net7.0\LoginPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\obj\Debug\net7.0\LoginPage.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\obj\Debug\net7.0\LoginPage.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\obj\Debug\net7.0\LoginPage.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\obj\Debug\net7.0\LoginPage.dll
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\obj\Debug\net7.0\refint\LoginPage.dll
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\obj\Debug\net7.0\LoginPage.pdb
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\obj\Debug\net7.0\LoginPage.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\LoginPage\obj\Debug\net7.0\ref\LoginPage.dll

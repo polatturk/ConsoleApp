@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\deneme\bin\Debug\net7.0\deneme.exe
+C:\Users\Polat\source\repos\GenelTekrar\deneme\bin\Debug\net7.0\deneme.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\deneme\bin\Debug\net7.0\deneme.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\deneme\bin\Debug\net7.0\deneme.dll
+C:\Users\Polat\source\repos\GenelTekrar\deneme\bin\Debug\net7.0\deneme.pdb
+C:\Users\Polat\source\repos\GenelTekrar\deneme\obj\Debug\net7.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\deneme\obj\Debug\net7.0\deneme.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\deneme\obj\Debug\net7.0\deneme.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\deneme\obj\Debug\net7.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\deneme\obj\Debug\net7.0\deneme.dll
+C:\Users\Polat\source\repos\GenelTekrar\deneme\obj\Debug\net7.0\refint\deneme.dll
+C:\Users\Polat\source\repos\GenelTekrar\deneme\obj\Debug\net7.0\deneme.pdb
+C:\Users\Polat\source\repos\GenelTekrar\deneme\obj\Debug\net7.0\deneme.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\deneme\obj\Debug\net7.0\ref\deneme.dll

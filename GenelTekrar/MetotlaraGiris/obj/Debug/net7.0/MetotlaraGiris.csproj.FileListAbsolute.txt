@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\bin\Debug\net7.0\MetotlaraGiris.exe
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\bin\Debug\net7.0\MetotlaraGiris.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\bin\Debug\net7.0\MetotlaraGiris.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\bin\Debug\net7.0\MetotlaraGiris.dll
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\bin\Debug\net7.0\MetotlaraGiris.pdb
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\obj\Debug\net7.0\MetotlaraGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\obj\Debug\net7.0\MetotlaraGiris.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\obj\Debug\net7.0\MetotlaraGiris.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\obj\Debug\net7.0\MetotlaraGiris.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\obj\Debug\net7.0\MetotlaraGiris.dll
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\obj\Debug\net7.0\refint\MetotlaraGiris.dll
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\obj\Debug\net7.0\MetotlaraGiris.pdb
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\obj\Debug\net7.0\MetotlaraGiris.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\MetotlaraGiris\obj\Debug\net7.0\ref\MetotlaraGiris.dll

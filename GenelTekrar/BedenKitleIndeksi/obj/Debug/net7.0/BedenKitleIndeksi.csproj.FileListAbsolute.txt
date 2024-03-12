@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\bin\Debug\net7.0\BedenKitleIndeksi.exe
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\bin\Debug\net7.0\BedenKitleIndeksi.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\bin\Debug\net7.0\BedenKitleIndeksi.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\bin\Debug\net7.0\BedenKitleIndeksi.dll
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\bin\Debug\net7.0\BedenKitleIndeksi.pdb
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\obj\Debug\net7.0\BedenKitleIndeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\obj\Debug\net7.0\BedenKitleIndeksi.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\obj\Debug\net7.0\BedenKitleIndeksi.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\obj\Debug\net7.0\BedenKitleIndeksi.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\obj\Debug\net7.0\BedenKitleIndeksi.dll
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\obj\Debug\net7.0\refint\BedenKitleIndeksi.dll
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\obj\Debug\net7.0\BedenKitleIndeksi.pdb
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\obj\Debug\net7.0\BedenKitleIndeksi.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\BedenKitleIndeksi\obj\Debug\net7.0\ref\BedenKitleIndeksi.dll

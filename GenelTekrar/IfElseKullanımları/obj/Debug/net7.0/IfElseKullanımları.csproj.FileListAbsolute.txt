@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\bin\Debug\net7.0\IfElseKullanımları.exe
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\bin\Debug\net7.0\IfElseKullanımları.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\bin\Debug\net7.0\IfElseKullanımları.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\bin\Debug\net7.0\IfElseKullanımları.dll
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\bin\Debug\net7.0\IfElseKullanımları.pdb
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\obj\Debug\net7.0\IfElseKullanımları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\obj\Debug\net7.0\IfElseKullanımları.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\obj\Debug\net7.0\IfElseKullanımları.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\obj\Debug\net7.0\IfElseKullanımları.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\obj\Debug\net7.0\IfElseKullanımları.dll
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\obj\Debug\net7.0\refint\IfElseKullanımları.dll
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\obj\Debug\net7.0\IfElseKullanımları.pdb
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\obj\Debug\net7.0\IfElseKullanımları.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\IfElseKullanımları\obj\Debug\net7.0\ref\IfElseKullanımları.dll

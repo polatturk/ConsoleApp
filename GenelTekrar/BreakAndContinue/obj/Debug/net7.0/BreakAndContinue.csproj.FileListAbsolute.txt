@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.exe
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.dll
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.pdb
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.dll
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\obj\Debug\net7.0\refint\BreakAndContinue.dll
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.pdb
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\BreakAndContinue\obj\Debug\net7.0\ref\BreakAndContinue.dll

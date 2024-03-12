@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\bin\Debug\net7.0\MiniATM.exe
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\bin\Debug\net7.0\MiniATM.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\bin\Debug\net7.0\MiniATM.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\bin\Debug\net7.0\MiniATM.dll
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\bin\Debug\net7.0\MiniATM.pdb
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\obj\Debug\net7.0\MiniATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\obj\Debug\net7.0\MiniATM.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\obj\Debug\net7.0\MiniATM.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\obj\Debug\net7.0\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\obj\Debug\net7.0\MiniATM.dll
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\obj\Debug\net7.0\refint\MiniATM.dll
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\obj\Debug\net7.0\MiniATM.pdb
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\obj\Debug\net7.0\MiniATM.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\MiniATM\obj\Debug\net7.0\ref\MiniATM.dll

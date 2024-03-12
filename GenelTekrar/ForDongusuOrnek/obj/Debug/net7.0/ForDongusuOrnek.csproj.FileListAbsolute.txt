@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\bin\Debug\net7.0\ForDongusuOrnek.exe
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\bin\Debug\net7.0\ForDongusuOrnek.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\bin\Debug\net7.0\ForDongusuOrnek.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\bin\Debug\net7.0\ForDongusuOrnek.dll
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\bin\Debug\net7.0\ForDongusuOrnek.pdb
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\obj\Debug\net7.0\ForDongusuOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\obj\Debug\net7.0\ForDongusuOrnek.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\obj\Debug\net7.0\ForDongusuOrnek.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\obj\Debug\net7.0\ForDongusuOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\obj\Debug\net7.0\ForDongusuOrnek.dll
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\obj\Debug\net7.0\refint\ForDongusuOrnek.dll
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\obj\Debug\net7.0\ForDongusuOrnek.pdb
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\obj\Debug\net7.0\ForDongusuOrnek.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\ForDongusuOrnek\obj\Debug\net7.0\ref\ForDongusuOrnek.dll

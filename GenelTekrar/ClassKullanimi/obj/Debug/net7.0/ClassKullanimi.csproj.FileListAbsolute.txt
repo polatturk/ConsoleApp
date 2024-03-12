@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\bin\Debug\net7.0\ClassKullanimi.exe
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\bin\Debug\net7.0\ClassKullanimi.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\bin\Debug\net7.0\ClassKullanimi.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\bin\Debug\net7.0\ClassKullanimi.dll
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\bin\Debug\net7.0\ClassKullanimi.pdb
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\obj\Debug\net7.0\ClassKullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\obj\Debug\net7.0\ClassKullanimi.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\obj\Debug\net7.0\ClassKullanimi.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\obj\Debug\net7.0\ClassKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\obj\Debug\net7.0\ClassKullanimi.dll
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\obj\Debug\net7.0\refint\ClassKullanimi.dll
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\obj\Debug\net7.0\ClassKullanimi.pdb
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\obj\Debug\net7.0\ClassKullanimi.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\ClassKullanimi\obj\Debug\net7.0\ref\ClassKullanimi.dll

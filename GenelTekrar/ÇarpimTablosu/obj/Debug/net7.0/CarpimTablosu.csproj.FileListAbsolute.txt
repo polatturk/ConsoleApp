@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\bin\Debug\net7.0\CarpimTablosu.exe
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\bin\Debug\net7.0\CarpimTablosu.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\bin\Debug\net7.0\CarpimTablosu.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\bin\Debug\net7.0\CarpimTablosu.dll
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\bin\Debug\net7.0\CarpimTablosu.pdb
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\obj\Debug\net7.0\CarpimTablosu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\obj\Debug\net7.0\CarpimTablosu.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\obj\Debug\net7.0\CarpimTablosu.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\obj\Debug\net7.0\CarpimTablosu.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\obj\Debug\net7.0\CarpimTablosu.dll
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\obj\Debug\net7.0\refint\CarpimTablosu.dll
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\obj\Debug\net7.0\CarpimTablosu.pdb
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\obj\Debug\net7.0\CarpimTablosu.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\ÇarpimTablosu\obj\Debug\net7.0\ref\CarpimTablosu.dll

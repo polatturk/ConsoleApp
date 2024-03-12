@@ -1,0 +1,14 @@
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\bin\Debug\net7.0\TurDonusumleri.exe
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\bin\Debug\net7.0\TurDonusumleri.deps.json
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\bin\Debug\net7.0\TurDonusumleri.runtimeconfig.json
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\bin\Debug\net7.0\TurDonusumleri.dll
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\bin\Debug\net7.0\TurDonusumleri.pdb
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\obj\Debug\net7.0\TurDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\obj\Debug\net7.0\TurDonusumleri.AssemblyInfoInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\obj\Debug\net7.0\TurDonusumleri.AssemblyInfo.cs
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\obj\Debug\net7.0\TurDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\obj\Debug\net7.0\TurDonusumleri.dll
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\obj\Debug\net7.0\refint\TurDonusumleri.dll
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\obj\Debug\net7.0\TurDonusumleri.pdb
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\obj\Debug\net7.0\TurDonusumleri.genruntimeconfig.cache
+C:\Users\Polat\source\repos\GenelTekrar\TurDonusumleri\obj\Debug\net7.0\ref\TurDonusumleri.dll
