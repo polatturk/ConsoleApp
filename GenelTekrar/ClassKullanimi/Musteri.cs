@@ -15,6 +15,7 @@ namespace ClassKullanimi
 
         public void MüsteriGetir()
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("MÜŞTERİLER LİSTELENİYOR..");
             Console.ReadLine();
             Console.Clear();

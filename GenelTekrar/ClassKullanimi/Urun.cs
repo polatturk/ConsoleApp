@@ -14,9 +14,11 @@ namespace ClassKullanimi
 
         public void UrunGetir()
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("ÜRÜNLER LİSTELENİYOR..");
             Console.ReadLine();
             Console.Clear();
         }
+        
     }
 }
